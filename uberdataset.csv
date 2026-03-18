@@ -1,0 +1,31 @@
+Ride_ID,Date,Time,Pickup_Location,Drop_Location,Distance_km,Fare_Amount,Payment_Type,Rating
+1,2025-01-01,08:30,Hyderabad,Banjara Hills,5.2,120,Cash,4.5
+2,2025-01-01,09:15,Secunderabad,Madhapur,8.5,200,Online,4.7
+3,2025-01-01,10:00,Gachibowli,Kukatpally,10.2,250,Online,4.6
+4,2025-01-01,11:45,Ameerpet,LB Nagar,12.5,300,Cash,4.2
+5,2025-01-01,13:00,Kondapur,Hitech City,4.0,100,Online,4.8
+6,2025-01-01,14:20,Mehdipatnam,Charminar,6.5,150,Cash,4.3
+7,2025-01-01,15:30,Madhapur,Banjara Hills,7.2,180,Online,4.6
+8,2025-01-01,17:00,LB Nagar,Secunderabad,11.0,270,Cash,4.1
+9,2025-01-01,18:15,Hitech City,Gachibowli,3.8,90,Online,4.9
+10,2025-01-01,19:45,Kukatpally,Ameerpet,6.0,140,Cash,4.4
+11,2025-01-02,08:00,Hyderabad,Madhapur,9.0,210,Online,4.7
+12,2025-01-02,09:30,Banjara Hills,Gachibowli,7.5,190,Cash,4.5
+13,2025-01-02,11:00,Secunderabad,Kondapur,10.5,260,Online,4.6
+14,2025-01-02,12:30,Madhapur,Charminar,12.0,310,Cash,4.2
+15,2025-01-02,14:00,Gachibowli,Hitech City,3.5,85,Online,4.8
+16,2025-01-02,15:15,Ameerpet,LB Nagar,11.5,280,Cash,4.3
+17,2025-01-02,16:45,Kondapur,Banjara Hills,6.8,170,Online,4.7
+18,2025-01-02,18:00,Mehdipatnam,Kukatpally,9.5,230,Cash,4.4
+19,2025-01-02,19:30,Hitech City,Secunderabad,10.0,250,Online,4.6
+20,2025-01-02,21:00,LB Nagar,Madhapur,11.2,275,Cash,4.2
+21,2025-01-03,07:45,Hyderabad,Gachibowli,9.8,220,Online,4.7
+22,2025-01-03,09:10,Banjara Hills,Kondapur,6.5,160,Cash,4.5
+23,2025-01-03,10:30,Secunderabad,Charminar,13.0,320,Online,4.3
+24,2025-01-03,12:00,Madhapur,Ameerpet,5.5,130,Cash,4.6
+25,2025-01-03,13:30,Gachibowli,Hitech City,4.2,105,Online,4.8
+26,2025-01-03,15:00,Kondapur,LB Nagar,12.3,300,Cash,4.2
+27,2025-01-03,16:30,Mehdipatnam,Banjara Hills,6.0,150,Online,4.7
+28,2025-01-03,18:00,Hitech City,Kukatpally,8.8,210,Cash,4.4
+29,2025-01-03,19:20,LB Nagar,Secunderabad,11.0,270,Online,4.5
+30,2025-01-03,21:00,Ameerpet,Madhapur,7.0,175,Cash,4.6
